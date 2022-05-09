@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/husainimohamad/react-test/static/css/main.073c9b0a.css",
+    "main.js": "/husainimohamad/react-test/static/js/main.9b2ef249.js",
+    "static/js/787.28cb0dcd.chunk.js": "/husainimohamad/react-test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/husainimohamad/react-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/husainimohamad/react-test/index.html",
+    "main.073c9b0a.css.map": "/husainimohamad/react-test/static/css/main.073c9b0a.css.map",
+    "main.9b2ef249.js.map": "/husainimohamad/react-test/static/js/main.9b2ef249.js.map",
+    "787.28cb0dcd.chunk.js.map": "/husainimohamad/react-test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9b2ef249.js"
+  ]
+}
